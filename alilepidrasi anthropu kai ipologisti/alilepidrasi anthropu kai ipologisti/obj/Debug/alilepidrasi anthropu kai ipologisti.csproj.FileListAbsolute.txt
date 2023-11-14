@@ -1,0 +1,21 @@
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\bin\Debug\alilepidrasi anthropu kai ipologisti.exe.config
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\bin\Debug\alilepidrasi anthropu kai ipologisti.exe
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\bin\Debug\alilepidrasi anthropu kai ipologisti.pdb
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi anthropu kai ipologisti.csproj.AssemblyReference.cache
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi anthropu kai ipologisti.csproj.SuggestedBindingRedirects.cache
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form1.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Properties.Resources.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi anthropu kai ipologisti.csproj.GenerateResource.cache
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi anthropu kai ipologisti.csproj.CoreCompileInputs.cache
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi anthropu kai ipologisti.exe
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi anthropu kai ipologisti.pdb
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form2.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form3.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form4.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form5.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form6.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form7.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form8.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form9.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form10.resources
+C:\VS apps folder\alilepidrasi anthropu kai ipologisti\alilepidrasi anthropu kai ipologisti\obj\Debug\alilepidrasi_anthropu_kai_ipologisti.Form11.resources
